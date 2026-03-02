@@ -42,3 +42,5 @@ print(a.mean())
 print(a.loc['row1'])
 
 print(df[(df['A']>3) | (df['A']<5)])
+
+
