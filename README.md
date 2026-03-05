@@ -15,6 +15,8 @@ Effective Pandas 2 (EP)
 - learning_5_pandas_datetime
     - to finish
 - learning_6_pandas_dataframe
+    - to do: in the more aggregation section, don't know why need to remove missing values to get consistent results.
+    - to finish the section "Melting, Transposing, and Stacking Data"
 - learning_7_pyarrow
     - to add
 
