@@ -5,11 +5,18 @@ Effective Pandas 2 (EP)
 - learning_0_pandas
 - learning_1_pandas
 - learning_2_pandas_plotting
+    - to finish
 - learning_2_matplotlib
+    - to finish
 - learning_2_seaborn
+    - to finish
 - learning_3_pandas_workflow
 - learning_4_optional_record_linking
 - learning_5_pandas_datetime
+    - to finish
+- learning_6_pandas_dataframe
+- learning_7_pyarrow
+    - to add
 
 <!--
 How to remove a folder already there in github 
