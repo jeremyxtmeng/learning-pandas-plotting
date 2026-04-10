@@ -1,11 +1,10 @@
-## References
+# References
 
-Effective Pandas 2 (EP)
+Effective Pandas 2 (EP) (Pyarrow is omitted)
 
 - learning_0_pandas
 - learning_1_pandas
 - learning_2_pandas_plotting
-    - to finish
 - learning_2_matplotlib
     - to finish
 - learning_2_seaborn
@@ -13,12 +12,9 @@ Effective Pandas 2 (EP)
 - learning_3_pandas_workflow
 - learning_4_optional_record_linking
 - learning_5_pandas_datetime
-    - to finish
 - learning_6_pandas_dataframe
-    - to do: in the more aggregation section, don't know why need to remove missing values to get consistent results.
-    - to finish the section "Melting, Transposing, and Stacking Data"
-- learning_7_pyarrow
-    - to add
+    - review: in the more aggregation section, I don't know why I need to remove missing values to get consistent results.
+- learning_7_timeseries
 
 <!--
 How to remove a folder already there in github 
