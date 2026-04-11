@@ -14,7 +14,6 @@ Effective Pandas 2 (EP) (Pyarrow is omitted)
 - learning_5_pandas_datetime
 - learning_6_pandas_dataframe
     - review: in the more aggregation section, I don't know why I need to remove missing values to get consistent results.
-- learning_7_timeseries
 
 <!--
 How to remove a folder already there in github 
