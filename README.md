@@ -4,16 +4,17 @@ Effective Pandas 2 (EP) (Pyarrow is omitted)
 
 - learning_0_pandas
 - learning_1_pandas
-- learning_2_pandas_plotting
-- learning_2_matplotlib
+- learning_plot_pandas_plotting
+- learning_plot_matplotlib
     - to finish
-- learning_2_seaborn
+- learning_plot_seaborn
     - to finish
 - learning_3_pandas_workflow
-- learning_4_optional_record_linking
+- learning_optional_record_linking
 - learning_5_pandas_datetime
 - learning_6_pandas_dataframe
     - review: in the more aggregation section, I don't know why I need to remove missing values to get consistent results.
+- learning_7_pandas_summary
 
 <!--
 How to remove a folder already there in github 
