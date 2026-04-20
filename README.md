@@ -1,6 +1,6 @@
 # References
 
-Effective Pandas 2 (EP) (Pyarrow is omitted)
+Effective Pandas 2 (EP), Python for Data Analysis
 
 - learning_0_pandas
 - learning_1_pandas
