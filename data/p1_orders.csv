@@ -1,0 +1,7 @@
+order_id,user_id,channel,amount,status
+7001,101,SMS,12.0,delivered
+7002,102,Email,5.0,delivered
+7003,103,SMS,7.0,delivered
+7004,103,Email,4.0,delivered
+7005,101,Organic,3.5,delivered
+7006,104,SMS,6.0,undelivered
